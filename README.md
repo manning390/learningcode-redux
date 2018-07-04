@@ -1,0 +1,1 @@
+This project was created following the [Learn Coding Tutorials](https://www.youtube.com/channel/UC8Szh5ZJeGFBWyqKyTCVPpA) [redux tutorial](https://www.youtube.com/watch?v=OSSpVLpuVWA) with the purpose of review and practice.
